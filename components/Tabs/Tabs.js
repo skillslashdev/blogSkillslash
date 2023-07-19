@@ -24,7 +24,7 @@ const Tabs = () => {
     if (width > 801) {
       setMobile(false);
     }
-  });
+  }, []);
 
   return (
     <div className={styles.wrapper}>

@@ -29,7 +29,7 @@ const ContactForm = ({ popup, setTrigger, syllabus }) => {
 
   useEffect(() => {
     setQuery({ ...query, dateTime: startDate });
-  }, [startDate]);
+  }, []);
 
   // Update inputs value
   const handleParam = () => (e) => {

@@ -102,7 +102,7 @@ const AllBlogs = ({ allPostsData, length, categoryPostTag }) => {
           })
         )
       : "";
-  }, [categoryName]);
+  }, [allPostsData, categoryName]);
 
   return (
     <section className={styles.allBlog}>

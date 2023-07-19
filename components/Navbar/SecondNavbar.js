@@ -290,7 +290,20 @@ const SecondNavbar = ({
     return () => {
       document.removeEventListener("scroll", handleScroll);
     };
-  }, [activeState]);
+  }, [
+    activeState,
+    trainer,
+    benefits,
+    certificate,
+    syllabus,
+    project,
+    review,
+    fee,
+    batchDate,
+    faq,
+    cta,
+    getHired,
+  ]);
   return secondNavbar ? (
     <div>
       <Popup trigger={popups} setTrigger={setPopups} className="popupModal">

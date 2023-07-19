@@ -37,7 +37,7 @@ const InternalLinking = ({
     redirectFs || redirectDSA ? setOtherCity(FsDataOther) : "";
     redirectWeb ? setOtherCity(WdDataOther) : "";
     redirectBa ? setOtherCity(BaDataOther) : "";
-  }, []);
+  }, [redirectBa, redirectFs, redirectWeb, redirectDs, redirectDSA]);
 
   return (
     <div className={styles.wrapper}>

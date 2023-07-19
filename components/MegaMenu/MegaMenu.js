@@ -19,7 +19,7 @@ const MegaMenu = ({ handleIcon }) => {
     if (width > 481) {
       setMobile(false);
     }
-  });
+  }, []);
   return (
     <div className={styles.MegaMenu}>
       <div className={styles.leftSideMenu}>

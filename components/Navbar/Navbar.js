@@ -44,7 +44,7 @@ const Navbar = ({ event }) => {
     if (width > 481) {
       setMobile(false);
     }
-  });
+  }, []);
 
   //timer code
   // const [timeLeft, setTimeLeft] = useState(calculateTimeLeft());

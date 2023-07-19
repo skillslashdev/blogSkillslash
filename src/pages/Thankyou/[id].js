@@ -5,7 +5,7 @@ import Image from "next/image";
 import { AiOutlineDownload } from "react-icons/ai";
 import { BsArrowLeftShort } from "react-icons/bs";
 import Link from "next/link";
-import { getAllPostIds, getPostData } from "../../lib/Thankyou";
+import { getAllPostIds, getPostData } from "../../../lib/Thankyou";
 
 export default function ThankYou({ DataScienceCourseData }) {
   return (
