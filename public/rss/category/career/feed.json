@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "skillslash blog",
+    "feed_url": "undefined/rss/category/feed.json",
+    "icon": "undefined/logo.svg",
+    "author": {
+        "name": "Skillslash",
+        "url": "https://twitter.com/skillslash"
+    },
+    "items": [
+        {
+            "id": "undefined/category/career",
+            "url": "undefined/category/career",
+            "title": "Want to build a recession-proof career? Here's How You Can Do It!",
+            "summary": "To summarize our discussion, we understood about recession, how damaging it can be for your career, skills to develop to beat it",
+            "date_modified": "2022-11-15T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/career",
+            "url": "undefined/category/career",
+            "title": "Why is Discipline considered above everything else ? - Skillslash",
+            "summary": "Discipline is a word whose meaning can have no bounds to be blunt. Life without discipline is very much like a boat without radar.",
+            "date_modified": "2022-06-07T18:30:00.000Z",
+            "author": {}
+        }
+    ]
+}

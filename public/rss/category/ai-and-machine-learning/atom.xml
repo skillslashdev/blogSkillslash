@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id/>
+    <title>skillslash blog</title>
+    <updated>2023-07-19T10:29:40.056Z</updated>
+    <generator>Feed for Node.js</generator>
+    <author>
+        <name>Skillslash</name>
+        <email>info@skillslash.com</email>
+        <uri>https://twitter.com/skillslash</uri>
+    </author>
+    <link rel="self" href="undefined/rss/category/atom.xml"/>
+    <logo>undefined/logo.svg</logo>
+    <icon>undefined/favicon.png</icon>
+    <rights>All rights reserved 2023, Skillslash</rights>
+    <entry>
+        <title type="html"><![CDATA[Movie Success Prediction System using Python - Data Science]]></title>
+        <id>undefined/category/ai-and-machine-learning</id>
+        <link href="undefined/category/ai-and-machine-learning"/>
+        <updated>2023-05-23T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Predicting movie success is a complex task that involves analyzing data from various sources like box office collections, social media, critic reviews, and audience ratings...]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Outlier Analysis In Data Mining | Outliers In Data Mining – Skillslash]]></title>
+        <id>undefined/category/ai-and-machine-learning</id>
+        <link href="undefined/category/ai-and-machine-learning"/>
+        <updated>2022-08-21T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article we have discussed what is outliers in data mining and what is outlier analysis in data mining.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RPA - The Best Guide to Understand Basics Right - Skillslash]]></title>
+        <id>undefined/category/ai-and-machine-learning</id>
+        <link href="undefined/category/ai-and-machine-learning"/>
+        <updated>2022-07-07T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[RPA gives organizations the possibility to upgrade their effectiveness, precision, and speed simultaneously and working on compliances.]]></summary>
+    </entry>
+</feed>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>skillslash blog</title>
+        <link>undefined</link>
+        <description></description>
+        <lastBuildDate>Wed, 19 Jul 2023 10:29:40 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Feed for Node.js</generator>
+        <image>
+            <title>skillslash blog</title>
+            <url>undefined/logo.svg</url>
+            <link>undefined</link>
+        </image>
+        <copyright>All rights reserved 2023, Skillslash</copyright>
+        <item>
+            <title><![CDATA[The Highlight of an Interview at Facebook | Interleave List]]></title>
+            <link>undefined/category/interview-question</link>
+            <guid>undefined/category/interview-question</guid>
+            <pubDate>Sun, 18 Sep 2022 18:30:00 GMT</pubDate>
+            <description><![CDATA[This blog is to aid you to crack an interview with such top companies and has the main focus on discussing the famous interleave list question of facebook]]></description>
+        </item>
+    </channel>
+</rss>

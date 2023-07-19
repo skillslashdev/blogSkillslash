@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>skillslash blog</title>
+        <link>undefined</link>
+        <description></description>
+        <lastBuildDate>Wed, 19 Jul 2023 10:29:40 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Feed for Node.js</generator>
+        <image>
+            <title>skillslash blog</title>
+            <url>undefined/logo.svg</url>
+            <link>undefined</link>
+        </image>
+        <copyright>All rights reserved 2023, Skillslash</copyright>
+        <item>
+            <title><![CDATA[Full Stack Development And The Internet Of Things (IoT) - Skillslash]]></title>
+            <link>undefined/category/full-stack</link>
+            <guid>undefined/category/full-stack</guid>
+            <pubDate>Thu, 04 May 2023 18:30:00 GMT</pubDate>
+            <description><![CDATA[The concept of Full Stack Development has been gaining traction in recent years, with businesses and developers realizing the importance of having a team that can handle both front-end and back-end development... ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[When Dynamic Programming Applies for Sequences? - Skillslash]]></title>
+            <link>undefined/category/full-stack</link>
+            <guid>undefined/category/full-stack</guid>
+            <pubDate>Tue, 22 Nov 2022 18:30:00 GMT</pubDate>
+            <description><![CDATA[In this article we discussed dynamic programming and how Advanced algorithms are important for cracking any job at a FAANG company as Full-Stack Developer.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[When Number Of Islands Come In Interviews | Skillslash]]></title>
+            <link>undefined/category/full-stack</link>
+            <guid>undefined/category/full-stack</guid>
+            <pubDate>Sun, 13 Nov 2022 18:30:00 GMT</pubDate>
+            <description><![CDATA[In this article our main objective was to gain a clear understanding of the famous interview question of Number of Islands.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Advancing In Advanced Algorithms With Coin Collection- Skillslash]]></title>
+            <link>undefined/category/full-stack</link>
+            <guid>undefined/category/full-stack</guid>
+            <pubDate>Wed, 19 Oct 2022 18:30:00 GMT</pubDate>
+            <description><![CDATA[In this article our main objective was to understand and solve the coin collection problem and solve it using the best technique ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Serialize and Deserialize an N-ary Tree | Skillslash]]></title>
+            <link>undefined/category/full-stack</link>
+            <guid>undefined/category/full-stack</guid>
+            <pubDate>Mon, 03 Oct 2022 18:30:00 GMT</pubDate>
+            <description><![CDATA[In this blog we discussed trees as we started from binary trees and then shifted to N-ary trees]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Counting Subarrays| Counting Subarray Sum | Skillslash]]></title>
+            <link>undefined/category/full-stack</link>
+            <guid>undefined/category/full-stack</guid>
+            <pubDate>Sun, 25 Sep 2022 18:30:00 GMT</pubDate>
+            <description><![CDATA[In this article we discussed counting subarrays, counting method and the counting subarray sum]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Fibonacci Series from Nature to Hashing | Fastest Hashtable]]></title>
+            <link>undefined/category/full-stack</link>
+            <guid>undefined/category/full-stack</guid>
+            <pubDate>Thu, 11 Aug 2022 18:30:00 GMT</pubDate>
+            <description><![CDATA[In this Blog, you learn about Fibonacci hashing and the fastest hashtable. Let us first of all look at what is hashing.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Word Search Maker | Make a Word Search Application | Skillslash]]></title>
+            <link>undefined/category/full-stack</link>
+            <guid>undefined/category/full-stack</guid>
+            <pubDate>Thu, 11 Aug 2022 18:30:00 GMT</pubDate>
+            <description><![CDATA[A popular leet code word search maker question we encounter these days is to create a program that would assist us to find words from a long text.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Hotel Booking Application Design - Hotel Booking LLD – Skillslash]]></title>
+            <link>undefined/category/full-stack</link>
+            <guid>undefined/category/full-stack</guid>
+            <pubDate>Mon, 08 Aug 2022 18:30:00 GMT</pubDate>
+            <description><![CDATA[In This Blog, we will discuss System Design, by Designing an LLD For Hotel Booking applications and system design of hotel reservation systems.]]></description>
+        </item>
+    </channel>
+</rss>

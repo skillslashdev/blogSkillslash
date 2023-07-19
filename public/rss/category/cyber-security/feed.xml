@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>skillslash blog</title>
+        <link>undefined</link>
+        <description></description>
+        <lastBuildDate>Wed, 19 Jul 2023 10:29:40 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Feed for Node.js</generator>
+        <image>
+            <title>skillslash blog</title>
+            <url>undefined/logo.svg</url>
+            <link>undefined</link>
+        </image>
+        <copyright>All rights reserved 2023, Skillslash</copyright>
+        <item>
+            <title><![CDATA[Importance of Cyber security in Banking Sector - Skillslash]]></title>
+            <link>undefined/category/cyber-security</link>
+            <guid>undefined/category/cyber-security</guid>
+            <pubDate>Tue, 07 Jun 2022 18:30:00 GMT</pubDate>
+            <description><![CDATA[Importance of Cyber security in Banking Sector. Finally, we understand how important is cybersecurity in Banking Sector.]]></description>
+        </item>
+    </channel>
+</rss>

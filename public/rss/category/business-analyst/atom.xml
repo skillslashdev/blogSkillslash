@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id/>
+    <title>skillslash blog</title>
+    <updated>2023-07-19T07:33:09.450Z</updated>
+    <generator>Feed for Node.js</generator>
+    <author>
+        <name>Skillslash</name>
+        <email>info@skillslash.com</email>
+        <uri>https://twitter.com/skillslash</uri>
+    </author>
+    <link rel="self" href="undefined/rss/category/atom.xml"/>
+    <logo>undefined/logo.svg</logo>
+    <icon>undefined/favicon.png</icon>
+    <rights>All rights reserved 2023, Skillslash</rights>
+    <entry>
+        <title type="html"><![CDATA[Become a Business Analyst An Effective Step-by-Step Guide - Skillslash]]></title>
+        <id>undefined/category/business-analyst</id>
+        <link href="undefined/category/business-analyst"/>
+        <updated>2022-06-10T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[One must possess the fundamental data analysis skills and the power to glean valuable insights to become a business analyst.]]></summary>
+    </entry>
+</feed>

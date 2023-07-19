@@ -1,0 +1,380 @@
+.wrapper {
+  position: relative;
+  margin-left: 10px;
+  height: max-content;
+}
+.MenuTabs {
+  display: flex;
+  margin-top: 30px;
+  height: 350px;
+  gap: 25px;
+  justify-content: space-between;
+  background-color: white;
+}
+.leftPanel {
+  display: flex;
+  flex-flow: column;
+}
+.leftPanel .gridWrap {
+  display: none;
+}
+.span {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  justify-content: space-between;
+
+  color: black;
+  font-size: 18px;
+  padding: 15px 25px;
+  font-weight: 300;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+.span:hover {
+  transition: all 0.5s;
+  transform: scale(1.1);
+  width: 350px;
+  background-color: #eaeaea;
+}
+.span span,
+.spanActive span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ActiveSpanIcon {
+  font-size: 20px;
+  color: #4f419a;
+  margin-right: 10px;
+}
+.spanIcon {
+  color: black;
+  font-size: 20px;
+  margin-right: 10px;
+}
+.spanActive {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  justify-content: space-between;
+  width: 350px;
+  color: #4f419a;
+  transition: all 0.3s;
+  background: #ebe8ff;
+  border-left: 6px solid #4f419a;
+  font-size: 18px;
+  border-radius: 5px;
+  padding: 15px 25px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+.middlePanel {
+  margin: 0;
+  margin-top: -10px;
+  padding: 0;
+  width: 100%;
+}
+.gridWrap {
+  display: grid;
+  width: inherit;
+  grid-template-columns: 32% 32% 32%;
+  gap: 20px;
+  align-items: flex-start;
+}
+.gridBox {
+  width: 100%;
+  display: flex;
+  flex-flow: column;
+  position: relative;
+  box-shadow: -1px 0px 10px 2px rgba(4, 135, 217, 0.1);
+
+  border-radius: 19px;
+}
+.gridBox:hover {
+  transition: all 0.8s;
+  transform: scale(1.05);
+}
+.gridBox:hover > .gridBtn {
+  color: black;
+}
+.gridInnerBox:hover .gridIcon {
+  transition: all 0.5s;
+  font-size: 32px;
+  color: black;
+}
+.gridImg {
+  padding: 0;
+  width: 100%;
+  height: 100%;
+
+  display: flex;
+  justify-content: center;
+  margin: -14px -0px -14px -0px;
+}
+.gridBox:nth-child(2) .gridImg {
+  margin: 0;
+}
+.gridBox:nth-child(2) .gridInnerBox {
+  margin-top: 10px;
+}
+.gridInnerBox {
+  transition: all 0.5s;
+  border-radius: 19px;
+  padding: 0px 15px 15px 15px;
+  width: 100%;
+  display: flex;
+  flex-flow: column;
+  gap: 5px;
+  z-index: 10;
+}
+
+.gridBanner {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+.gridInnerBox span {
+  display: flex;
+  align-items: center;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.line {
+  display: flex;
+  border: 0.1px solid rgba(175, 175, 175, 0.118);
+  margin-left: -15px;
+  margin-right: -15px;
+}
+.lines {
+  border: 0.1px solid rgba(175, 175, 175, 0.118);
+}
+.btnWrap {
+  width: 100%;
+  display: none;
+}
+.gridBtn {
+  background-color: transparent;
+  color: #4f419a;
+  font-weight: 600;
+  width: 100%;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  line-height: 21px;
+
+  text-align: center;
+  padding: 0;
+  padding-top: 10px;
+}
+.gridBtn:hover {
+  color: black;
+}
+.gridIcon {
+  color: #4f419a;
+  font-size: 30px;
+  padding: 5px;
+
+  margin-right: 5px;
+  border-radius: 4px;
+}
+
+.gridBox h4 {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 21px;
+}
+@media (max-width: 1281px) {
+  .span,
+  .spanActive {
+    width: 250px;
+    font-size: 16px;
+    padding: 10px 20px;
+  }
+  .span:hover {
+    width: 250px;
+  }
+
+  .wrapper {
+    margin-left: 15px;
+  }
+  .gridImg {
+    height: max-content;
+  }
+  /* .gridInnerBox {
+    margin-top: -30px;
+  } */
+  .gridBox h4 {
+    font-size: 15px;
+  }
+  .gridInnerBox span {
+    width: max-content;
+    font-size: 15px;
+  }
+  .gridInnerBox button {
+    font-size: 15px;
+  }
+}
+@media (max-width: 1024px) {
+  .span,
+  .spanActive {
+    width: 220px;
+    font-size: 14px;
+    padding: 10px;
+  }
+  .MenuTabs {
+    gap: 10px;
+  }
+  .gridWrap {
+    gap: 10px;
+  }
+  .span:hover {
+    width: 220px;
+  }
+}
+@media (max-width: 961px) {
+  .wrapper {
+    margin-left: 0px;
+  }
+  .span,
+  .spanActive {
+    width: 210px;
+    font-size: 14px;
+    padding: 10px;
+  }
+  .span:hover {
+    transition: none;
+    transform: none;
+    width: 100%;
+    background-color: #eaeaea;
+  }
+  .MenuTabs {
+    gap: 5px;
+  }
+  .gridWrap {
+    display: grid;
+    width: inherit;
+    grid-template-columns: 42% 42%;
+    gap: 20px;
+    overflow: scroll;
+    align-items: flex-start;
+
+    height: 470px;
+  }
+  /* .gridInnerBox {
+    margin-top: -38px;
+  } */
+  .MenuTabs {
+    height: 510px;
+  }
+  .gridBox h4 {
+    font-size: 14px;
+    font-weight: 500;
+  }
+  .gridBox:hover {
+    transition: all 0.8s;
+    transform: none;
+  }
+  .gridInnerBox:hover .gridIcon {
+    transition: none;
+    font-size: 30px;
+    color: black;
+  }
+  .gridInnerBox span {
+    font-size: 16px;
+    font-weight: 400;
+  }
+  .gridIcon {
+    font-size: 33px;
+  }
+}
+@media (max-width: 801px) {
+  .middlePanel {
+    display: none;
+  }
+  .span {
+    width: 100%;
+  }
+  .spanActive {
+    width: 100%;
+  }
+  .leftPanel .gridWrap {
+    display: grid;
+    width: inherit;
+    grid-template-columns: 42% 42% 42%;
+    gap: 20px;
+    margin-top: 10px;
+    overflow: hidden;
+    align-items: flex-start;
+    overflow-x: scroll;
+    height: 460px;
+  }
+  .leftPanel {
+    margin-right: 0px;
+    width: 100%;
+  }
+  .wrapper {
+    height: 510px;
+  }
+  .MenuTabs {
+    height: 550px;
+  }
+}
+@media (max-width: 481px) {
+  .wrapper {
+    margin-left: 0px;
+  }
+  .gridBox h4 {
+    font-size: 18px;
+    font-weight: 700;
+    position: relative;
+    line-height: 24px;
+    display: inline-block;
+    margin-bottom: 10px;
+  }
+  .lines {
+    border: 0.1px solid rgba(123, 123, 123, 0.3);
+  }
+  .gridInnerBox {
+    margin-top: 10px;
+  }
+  .gridBox:nth-child(2) .gridInnerBox {
+    margin-top: 20px;
+  }
+  .MenuTabs {
+    left: 0;
+
+    flex-flow: column;
+  }
+  .leftPanel {
+    margin-right: 0px;
+  }
+  .gridInnerBox:hover {
+    transform: none;
+  }
+  .gridBox:hover {
+    transition: none;
+    transform: none;
+  }
+  .middlePanel {
+    display: none;
+  }
+  .span {
+    width: 100%;
+  }
+  .spanActive {
+    width: 100%;
+  }
+  .leftPanel .gridWrap {
+    display: grid;
+    width: inherit;
+    grid-template-columns: 82% 82% 82%;
+    gap: 20px;
+    align-items: flex-start;
+    overflow-y: scroll;
+    height: 430px;
+  }
+}

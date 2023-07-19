@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id/>
+    <title>skillslash blog</title>
+    <updated>2023-07-19T10:29:39.992Z</updated>
+    <generator>Feed for Node.js</generator>
+    <author>
+        <name>Skillslash</name>
+        <email>info@skillslash.com</email>
+        <uri>https://twitter.com/skillslash</uri>
+    </author>
+    <link rel="self" href="undefined/rss/category/atom.xml"/>
+    <logo>undefined/logo.svg</logo>
+    <icon>undefined/favicon.png</icon>
+    <rights>All rights reserved 2023, Skillslash</rights>
+    <entry>
+        <title type="html"><![CDATA[Credit Card Fraud Detection System - Python]]></title>
+        <id>undefined/category/data-science</id>
+        <link href="undefined/category/data-science"/>
+        <updated>2023-06-11T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Credit card fraud detection is the process of identifying fraudulent transactions made using a credit card. A credit card fraud detection system can help financial institutions and merchants to identify and prevent fraudulent transactions in real-time...]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doctor Appointment Book & Disease Prediction App using Data Science - Skillslash]]></title>
+        <id>undefined/category/data-science</id>
+        <link href="undefined/category/data-science"/>
+        <updated>2023-05-30T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The Doctor Appointment Book is a digital tool that allows patients to view the availability of their healthcare provider and book an appointment at a time that suits them...]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heart Failure Prediction System using Data Science]]></title>
+        <id>undefined/category/data-science</id>
+        <link href="undefined/category/data-science"/>
+        <updated>2023-05-29T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The heart failure prediction system we will discuss in this blog is based on machine learning algorithms that use patient data to predict the likelihood of heart failure...]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[College Enquiry Chat Bot with Data Science]]></title>
+        <id>undefined/category/data-science</id>
+        <link href="undefined/category/data-science"/>
+        <updated>2023-05-25T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A college enquiry chatbot is an AI-powered chatbot that can provide students with instant answers to their inquiries about courses, admissions, fees, scholarships, and more...]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Student Feedback Review System using Python - Data Science | Skillslash]]></title>
+        <id>undefined/category/data-science</id>
+        <link href="undefined/category/data-science"/>
+        <updated>2023-05-24T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ The traditional methods of collecting feedback have always been through paper-based forms which are often time-consuming and not efficient...]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT & BradAI with Data Science]]></title>
+        <id>undefined/category/data-science</id>
+        <link href="undefined/category/data-science"/>
+        <updated>2023-05-22T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPT is designed specifically for engaging in conversational interactions. It has been trained on a vast amount of text data from the internet, including dialogue-based sources, to understand and generate responses in a conversational manner..]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Big Data Case Study- What makes Spotify successful]]></title>
+        <id>undefined/category/data-science</id>
+        <link href="undefined/category/data-science"/>
+        <updated>2023-05-21T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[We live in a world where buying music has become obsolete, and streaming tunes is the new trendy trend that appears to be here to stay. As a result, streaming systems such as Apple Music, Pandora, Songza, and, of course, the well-known Spotify have risen like phoenixes..]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python libraries- data visualisation with Matplotlib - Skillslash]]></title>
+        <id>undefined/category/data-science</id>
+        <link href="undefined/category/data-science"/>
+        <updated>2023-05-18T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Data visualization is an essential tool in data analysis. It helps in better understanding the data, identifying trends, and presenting insights to stakeholders. ]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Statistical Modeling with Python - Skillslash]]></title>
+        <id>undefined/category/data-science</id>
+        <link href="undefined/category/data-science"/>
+        <updated>2023-05-16T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Statistical modeling is an essential tool for data analysis and decision-making in various fields. It helps in exploring relationships between variables, making predictions, and gaining insights from data.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Statistical Analysis of Cricket Data - Skillslash]]></title>
+        <id>undefined/category/data-science</id>
+        <link href="undefined/category/data-science"/>
+        <updated>2023-05-11T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Statistical analysis of cricket data involves using various techniques to analyze and draw insights from large datasets of cricket-related information. These techniques can be broadly classified into two categories: descriptive statistics and inferential statistics.... ]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Role of Data Scientists in Music Analytics- Skillslash]]></title>
+        <id>undefined/category/data-science</id>
+        <link href="undefined/category/data-science"/>
+        <updated>2023-05-09T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Python is one of the most popular and fastest-growing programming languages... ]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Overview of Common Data Structures - Arrays, Linked lists, and Trees - Skillslash]]></title>
+        <id>undefined/category/data-science</id>
+        <link href="undefined/category/data-science"/>
+        <updated>2023-05-07T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Data structures are the fundamental building blocks of computer science. They are designed to store and organize data in a way that makes it easy to access, modify, and analyze...]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python for Data Science- 8 Concepts You May Have Forgotten - Skillslash]]></title>
+        <id>undefined/category/data-science</id>
+        <link href="undefined/category/data-science"/>
+        <updated>2023-04-30T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Python is one of the most popular and fastest-growing programming languages... ]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discover the Concept Behind Every Intermediate Array Elements | Skillslash]]></title>
+        <id>undefined/category/data-science</id>
+        <link href="undefined/category/data-science"/>
+        <updated>2023-01-31T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[This article discussed arrays and elements of arrays and then solved the problem ofprinting intermediate integers between one element and the next element an integer array]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Healthcare Data Science Real-Time Projects To Get You Hired in 2023]]></title>
+        <id>undefined/category/data-science</id>
+        <link href="undefined/category/data-science"/>
+        <updated>2023-01-18T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this blog, we have discussed five healthcare data science real-time projects that can help job seekers stand out in their job search ]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Role of a Data Scientist in the BFSI Sector in 2023 - Skillslash]]></title>
+        <id>undefined/category/data-science</id>
+        <link href="undefined/category/data-science"/>
+        <updated>2023-01-09T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The Role of a Data Scientist in the BFSI sector is crucial in helping organizations to better understand their customers, optimize financial processes, and stay ahead of market trends]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Ways Data Science Is Transforming The Fashion Industry- Skillslash]]></title>
+        <id>undefined/category/data-science</id>
+        <link href="undefined/category/data-science"/>
+        <updated>2022-12-21T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this blog learn, 5 ways how  data science is transforming the fashion industry]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What role does Data Science play in Civil Engineering? - Skillslash]]></title>
+        <id>undefined/category/data-science</id>
+        <link href="undefined/category/data-science"/>
+        <updated>2022-08-31T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Can a Civil engineer work as a data scientist or What exactly is required to make a  career switch from civil engineering to data science? Come, let us explore!]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top place to learn data science in India]]></title>
+        <id>undefined/category/data-science</id>
+        <link href="undefined/category/data-science"/>
+        <updated>2022-07-04T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Skillslash one of the best instutute to learn data science course in India, so Enroll Now And Get Your Dream Job!]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Python- Top 9 Justifications to Prove It's The Best - Skillslash]]></title>
+        <id>undefined/category/data-science</id>
+        <link href="undefined/category/data-science"/>
+        <updated>2022-06-20T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn Python online with Skillslash and Get your dream job, so why are you waiting for. Hurry!! Join Today!!]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Day in the Life of a Data Science Professional - Skillslash]]></title>
+        <id>undefined/category/data-science</id>
+        <link href="undefined/category/data-science"/>
+        <updated>2022-06-07T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A data science professional's day-to-day assignments rotate around data, which is nothing unexpected given the working title!]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Data Science Course in Bangalore]]></title>
+        <id>undefined/category/data-science</id>
+        <link href="undefined/category/data-science"/>
+        <updated>2022-06-07T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Skillslash provides the best Data Science Course In Bangalore at an affordable price with a 100% placement guarantee.]]></summary>
+    </entry>
+</feed>
