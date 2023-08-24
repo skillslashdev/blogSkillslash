@@ -111,7 +111,7 @@ const AllBlogs = ({ allPostsData, length, categoryPostTag }) => {
           <h4 className={styles.browse}>Browse Categories</h4>
           {categoryPostTag.map((category, i) => {
             const makeUrl = category.toLowerCase().replaceAll(" ", "-");
-            const url = `/category/${makeUrl}`;
+            const url = `/blog/category/${makeUrl}`;
             return (
               <span
                 key={i}
@@ -144,7 +144,7 @@ const AllBlogs = ({ allPostsData, length, categoryPostTag }) => {
               <div className={styles.listWrap}>
                 {categoryPostTag.map((category, i) => {
                   const makeUrl = category.toLowerCase().replaceAll(" ", "-");
-                  const url = `/category/${makeUrl}`;
+                  const url = `/blog/category/${makeUrl}`;
                   return (
                     <p
                       key={i}
@@ -177,7 +177,7 @@ const AllBlogs = ({ allPostsData, length, categoryPostTag }) => {
           {blogData
             .slice(0, 6)
             .map(({ id, date, title, readTime, tag, headerImg }) => {
-              let url = `/${id}`;
+              let url = `/blog/${id}`;
 
               return (
                 <div className={styles.blogBox} key={id}>

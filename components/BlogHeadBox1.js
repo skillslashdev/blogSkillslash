@@ -12,7 +12,7 @@ const BlogHeadBox1 = ({ allPostsData }) => {
         {allPostsData
           .slice(0, 1)
           .map(({ id, title, headerImg, date, readTime }) => {
-            const url = `/${id}`;
+            const url = `/blog/${id}`;
             return (
               <div className={styles.blog} key={id}>
                 <div className={styles.headImgWrap}>
@@ -46,7 +46,7 @@ const BlogHeadBox1 = ({ allPostsData }) => {
         {allPostsData
           .slice(1, 5)
           .map(({ id, title, headerImg, date, readTime }) => {
-            const url = `/${id}`;
+            const url = `/blog/${id}`;
             return (
               <div className={styles.blogRight} key={id}>
                 <div className={styles.imgWrap}>
