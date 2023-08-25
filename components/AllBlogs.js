@@ -9,7 +9,7 @@ import styles from "../src/styles/blogM.module.css";
 
 const AllBlogs = ({ allPostsData, length, categoryPostTag }) => {
   const [categoryName, setCategoryName] = useState("Data Science");
-  const [categoryUrl, setCategoryUrl] = useState("/category/data-science");
+  const [categoryUrl, setCategoryUrl] = useState("/blog/category/data-science");
   const [blogData, setBlogData] = useState(allPostsData);
   const [list, setList] = useState(false);
   const imgArray = [

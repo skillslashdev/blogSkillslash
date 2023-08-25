@@ -1,6 +1,7 @@
 import AWS from "aws-sdk";
 import fs from "fs";
 import path from "path";
+import mime from "mime-types";
 import "dotenv/config";
 
 AWS.config.update({
@@ -13,12 +14,15 @@ const s3 = new AWS.S3();
 const bucketName = "skillslash-cdn"; // Replace with your bucket name
 
 async function uploadFileToS3(localPath, s3Key) {
-  const fileContent = fs.readFileSync(localPath);
-
+  const fileContent = fs.readFileSync(localPath, { encoding: null });
+  // Determine the Content-Type based on the file extension
+  const contentType =
+    mime.contentType(path.extname(localPath)) || "application/octet-stream";
   const params = {
     Bucket: bucketName,
     Key: s3Key,
     Body: fileContent,
+    ContentType: contentType,
   };
 
   try {
@@ -48,8 +52,7 @@ async function uploadFolderContentsToS3(
 }
 
 async function main() {
-  const localFolderPath =
-    path.join(process.cwd(), ".next/static");
+  const localFolderPath = path.join(process.cwd(), ".next/static");
 
   try {
     await uploadFolderContentsToS3(localFolderPath);
