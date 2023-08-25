@@ -49,7 +49,7 @@ async function uploadFolderContentsToS3(
 
 async function main() {
   const localFolderPath =
-    "D:/office/skillslash/Blog/blogskillslash/.next/static";
+    path.join(process.cwd(), ".next/static");
 
   try {
     await uploadFolderContentsToS3(localFolderPath);

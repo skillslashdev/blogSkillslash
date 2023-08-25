@@ -31,7 +31,7 @@ const LeftSideBody = ({ categoryPostTag }) => {
               <div className={styles.listWrap}>
                 {categoryPostTag.map((category, i) => {
                   const makeUrl = category.toLowerCase().replaceAll(" ", "-");
-                  const url = `/category/${makeUrl}`;
+                  const url = `/blog/category/${makeUrl}`;
                   return (
                     <p
                       key={i}
