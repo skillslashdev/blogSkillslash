@@ -1,0 +1,44 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "skillslash blog",
+    "feed_url": "undefined/rss/category/feed.json",
+    "icon": "undefined/logo.svg",
+    "author": {
+        "name": "Skillslash",
+        "url": "https://twitter.com/skillslash"
+    },
+    "items": [
+        {
+            "id": "undefined/category/career",
+            "url": "undefined/category/career",
+            "title": "Unlocking the Potent Earnings - Highest Paying Jobs in India's IT Sector - Skillslash",
+            "summary": "With a compound annual growth rate (CAGR) of 8.5%, the Indian IT and Business Process Management (BPM) industry crossed the impressive milestone of $200 billion in revenue in 2021, as reported by the National Association of Software and Service Companies (NASSCOM). ",
+            "date_modified": "2023-09-14T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/career",
+            "url": "undefined/category/career",
+            "title": "Crafting the Perfect Data Scientist Resume- Templates, Samples, and Expert Guidance - Skillslash",
+            "summary": "To secure your dream data scientist job, you need an impressive resume that not only showcases your skills but also stands out from the competition. ",
+            "date_modified": "2023-09-13T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/career",
+            "url": "undefined/category/career",
+            "title": "Want to build a recession-proof career? Here's How You Can Do It!",
+            "summary": "To summarize our discussion, we understood about recession, how damaging it can be for your career, skills to develop to beat it",
+            "date_modified": "2022-11-15T18:30:00.000Z",
+            "author": {}
+        },
+        {
+            "id": "undefined/category/career",
+            "url": "undefined/category/career",
+            "title": "Why is Discipline considered above everything else ? - Skillslash",
+            "summary": "Discipline is a word whose meaning can have no bounds to be blunt. Life without discipline is very much like a boat without radar.",
+            "date_modified": "2022-06-07T18:30:00.000Z",
+            "author": {}
+        }
+    ]
+}

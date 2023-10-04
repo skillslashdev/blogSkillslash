@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id/>
+    <title>skillslash blog</title>
+    <updated>2023-10-04T10:30:31.426Z</updated>
+    <generator>Feed for Node.js</generator>
+    <author>
+        <name>Skillslash</name>
+        <email>info@skillslash.com</email>
+        <uri>https://twitter.com/skillslash</uri>
+    </author>
+    <link rel="self" href="undefined/rss/category/atom.xml"/>
+    <logo>undefined/logo.svg</logo>
+    <icon>undefined/favicon.png</icon>
+    <rights>All rights reserved 2023, Skillslash</rights>
+    <entry>
+        <title type="html"><![CDATA[Full Stack Development And The Internet Of Things (IoT) - Skillslash]]></title>
+        <id>undefined/category/full-stack</id>
+        <link href="undefined/category/full-stack"/>
+        <updated>2023-05-04T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The concept of Full Stack Development has been gaining traction in recent years, with businesses and developers realizing the importance of having a team that can handle both front-end and back-end development... ]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Dynamic Programming Applies for Sequences? - Skillslash]]></title>
+        <id>undefined/category/full-stack</id>
+        <link href="undefined/category/full-stack"/>
+        <updated>2022-11-22T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article we discussed dynamic programming and how Advanced algorithms are important for cracking any job at a FAANG company as Full-Stack Developer.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Number Of Islands Come In Interviews | Skillslash]]></title>
+        <id>undefined/category/full-stack</id>
+        <link href="undefined/category/full-stack"/>
+        <updated>2022-11-13T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article our main objective was to gain a clear understanding of the famous interview question of Number of Islands.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advancing In Advanced Algorithms With Coin Collection- Skillslash]]></title>
+        <id>undefined/category/full-stack</id>
+        <link href="undefined/category/full-stack"/>
+        <updated>2022-10-19T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article our main objective was to understand and solve the coin collection problem and solve it using the best technique ]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Serialize and Deserialize an N-ary Tree | Skillslash]]></title>
+        <id>undefined/category/full-stack</id>
+        <link href="undefined/category/full-stack"/>
+        <updated>2022-10-03T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this blog we discussed trees as we started from binary trees and then shifted to N-ary trees]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Counting Subarrays| Counting Subarray Sum | Skillslash]]></title>
+        <id>undefined/category/full-stack</id>
+        <link href="undefined/category/full-stack"/>
+        <updated>2022-09-25T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article we discussed counting subarrays, counting method and the counting subarray sum]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fibonacci Series from Nature to Hashing | Fastest Hashtable]]></title>
+        <id>undefined/category/full-stack</id>
+        <link href="undefined/category/full-stack"/>
+        <updated>2022-08-11T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this Blog, you learn about Fibonacci hashing and the fastest hashtable. Let us first of all look at what is hashing.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Word Search Maker | Make a Word Search Application | Skillslash]]></title>
+        <id>undefined/category/full-stack</id>
+        <link href="undefined/category/full-stack"/>
+        <updated>2022-08-11T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A popular leet code word search maker question we encounter these days is to create a program that would assist us to find words from a long text.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hotel Booking Application Design - Hotel Booking LLD – Skillslash]]></title>
+        <id>undefined/category/full-stack</id>
+        <link href="undefined/category/full-stack"/>
+        <updated>2022-08-08T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In This Blog, we will discuss System Design, by Designing an LLD For Hotel Booking applications and system design of hotel reservation systems.]]></summary>
+    </entry>
+</feed>

@@ -1,0 +1,20 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "skillslash blog",
+    "feed_url": "undefined/rss/category/feed.json",
+    "icon": "undefined/logo.svg",
+    "author": {
+        "name": "Skillslash",
+        "url": "https://twitter.com/skillslash"
+    },
+    "items": [
+        {
+            "id": "undefined/category/interview-question",
+            "url": "undefined/category/interview-question",
+            "title": "The Highlight of an Interview at Facebook | Interleave List",
+            "summary": "This blog is to aid you to crack an interview with such top companies and has the main focus on discussing the famous interleave list question of facebook",
+            "date_modified": "2022-09-18T18:30:00.000Z",
+            "author": {}
+        }
+    ]
+}

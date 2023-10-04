@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id/>
+    <title>skillslash blog</title>
+    <updated>2023-10-04T10:30:31.463Z</updated>
+    <generator>Feed for Node.js</generator>
+    <author>
+        <name>Skillslash</name>
+        <email>info@skillslash.com</email>
+        <uri>https://twitter.com/skillslash</uri>
+    </author>
+    <link rel="self" href="undefined/rss/category/atom.xml"/>
+    <logo>undefined/logo.svg</logo>
+    <icon>undefined/favicon.png</icon>
+    <rights>All rights reserved 2023, Skillslash</rights>
+    <entry>
+        <title type="html"><![CDATA[Unlocking the Potent Earnings - Highest Paying Jobs in India's IT Sector - Skillslash]]></title>
+        <id>undefined/category/career</id>
+        <link href="undefined/category/career"/>
+        <updated>2023-09-14T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[With a compound annual growth rate (CAGR) of 8.5%, the Indian IT and Business Process Management (BPM) industry crossed the impressive milestone of $200 billion in revenue in 2021, as reported by the National Association of Software and Service Companies (NASSCOM). ]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crafting the Perfect Data Scientist Resume- Templates, Samples, and Expert Guidance - Skillslash]]></title>
+        <id>undefined/category/career</id>
+        <link href="undefined/category/career"/>
+        <updated>2023-09-13T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[To secure your dream data scientist job, you need an impressive resume that not only showcases your skills but also stands out from the competition. ]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Want to build a recession-proof career? Here's How You Can Do It!]]></title>
+        <id>undefined/category/career</id>
+        <link href="undefined/category/career"/>
+        <updated>2022-11-15T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[To summarize our discussion, we understood about recession, how damaging it can be for your career, skills to develop to beat it]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why is Discipline considered above everything else ? - Skillslash]]></title>
+        <id>undefined/category/career</id>
+        <link href="undefined/category/career"/>
+        <updated>2022-06-07T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Discipline is a word whose meaning can have no bounds to be blunt. Life without discipline is very much like a boat without radar.]]></summary>
+    </entry>
+</feed>

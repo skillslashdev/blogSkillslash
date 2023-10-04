@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>skillslash blog</title>
+        <link>undefined</link>
+        <description></description>
+        <lastBuildDate>Wed, 04 Oct 2023 10:30:31 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Feed for Node.js</generator>
+        <image>
+            <title>skillslash blog</title>
+            <url>undefined/logo.svg</url>
+            <link>undefined</link>
+        </image>
+        <copyright>All rights reserved 2023, Skillslash</copyright>
+        <item>
+            <title><![CDATA[Role of Descriptive Statistics in Research - Skillslash]]></title>
+            <link>undefined/category/business-analytics</link>
+            <guid>undefined/category/business-analytics</guid>
+            <pubDate>Wed, 03 May 2023 18:30:00 GMT</pubDate>
+            <description><![CDATA[Statistics is a crucial aspect of modern-day research and analysis. It enables us to understand and interpret complex data and draw meaningful conclusions.... ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Become a Business Analyst An Effective Step-by-Step Guide - Skillslash]]></title>
+            <link>undefined/category/business-analytics</link>
+            <guid>undefined/category/business-analytics</guid>
+            <pubDate>Fri, 10 Jun 2022 18:30:00 GMT</pubDate>
+            <description><![CDATA[One must possess the fundamental data analysis skills and the power to glean valuable insights to become a business analyst.]]></description>
+        </item>
+    </channel>
+</rss>
