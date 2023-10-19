@@ -3,6 +3,7 @@ import { useRouter } from "next/router";
 import { MdArrowDropDown } from "react-icons/md";
 
 import styles from "../../src/styles/blog.module.css";
+import SubscribeNewsletter from "../SubscribeNewsletter/SubscribeNewsletter";
 const LeftSideBody = ({ categoryPostTag }) => {
   const router = useRouter();
   const [categoryName, setCategoryName] = useState("Data Science");
@@ -27,6 +28,7 @@ const LeftSideBody = ({ categoryPostTag }) => {
               <p className={styles.dropDownCatName}>{categoryName}</p>{" "}
               <MdArrowDropDown />
             </div>
+
             {list ? (
               <div className={styles.listWrap}>
                 {categoryPostTag.map((category, i) => {
@@ -51,6 +53,8 @@ const LeftSideBody = ({ categoryPostTag }) => {
             )}
           </div>
         </div>
+        <br></br>
+        <SubscribeNewsletter />
       </div>
     </div>
   );
