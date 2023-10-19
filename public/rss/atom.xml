@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id/>
     <title>skillslash blog</title>
-    <updated>2023-10-04T10:30:31.224Z</updated>
+    <updated>2023-10-19T05:42:09.485Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Skillslash</name>
@@ -13,6 +13,7 @@
     <logo>undefined/logo.svg</logo>
     <icon>undefined/favicon.png</icon>
     <rights>All rights reserved 2023, Skillslash</rights>
+    <category term="Career"/>
     <category term="Data Science"/>
     <category term="Data Science"/>
     <category term="Data Science"/>
@@ -65,6 +66,13 @@
     <category term="Cyber security"/>
     <category term="Block Chain"/>
     <category term="Career"/>
+    <entry>
+        <title type="html"><![CDATA[Mastering the Art of Articulating Job Changes in the World of IT, Data Science, and Machine Learning - Skillslash]]></title>
+        <id>undefined/blog/How-to-Explain-Reason-for-Job-Change</id>
+        <link href="undefined/blog/How-to-Explain-Reason-for-Job-Change"/>
+        <updated>2023-11-18T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In the fast-paced world of Information Technology (IT), Data Science, and Machine Learning, job changes are not just a common place occurrence; they are often viewed as steps toward career advancement. ]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The AI Revolution - How Generative AI is Transforming Data Science Tools - Skillslash]]></title>
         <id>undefined/blog/Generative-AI-Transforming-Data-Science-Tools</id>

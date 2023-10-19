@@ -4,7 +4,7 @@
         <title>skillslash blog</title>
         <link>undefined</link>
         <description></description>
-        <lastBuildDate>Wed, 04 Oct 2023 10:30:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 05:42:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -13,6 +13,13 @@
             <link>undefined</link>
         </image>
         <copyright>All rights reserved 2023, Skillslash</copyright>
+        <item>
+            <title><![CDATA[Mastering the Art of Articulating Job Changes in the World of IT, Data Science, and Machine Learning - Skillslash]]></title>
+            <link>undefined/category/career</link>
+            <guid>undefined/category/career</guid>
+            <pubDate>Sat, 18 Nov 2023 18:30:00 GMT</pubDate>
+            <description><![CDATA[In the fast-paced world of Information Technology (IT), Data Science, and Machine Learning, job changes are not just a common place occurrence; they are often viewed as steps toward career advancement. ]]></description>
+        </item>
         <item>
             <title><![CDATA[Unlocking the Potent Earnings - Highest Paying Jobs in India's IT Sector - Skillslash]]></title>
             <link>undefined/category/career</link>
