@@ -54,7 +54,7 @@ const LeftSideBody = ({ categoryPostTag }) => {
           </div>
         </div>
         <br></br>
-        <SubscribeNewsletter />
+        {/* <SubscribeNewsletter /> */}
       </div>
     </div>
   );

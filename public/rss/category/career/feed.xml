@@ -4,7 +4,7 @@
         <title>skillslash blog</title>
         <link>undefined</link>
         <description></description>
-        <lastBuildDate>Wed, 29 Nov 2023 10:55:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 07:26:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -13,6 +13,13 @@
             <link>undefined</link>
         </image>
         <copyright>All rights reserved 2023, Skillslash</copyright>
+        <item>
+            <title><![CDATA[10 Educational AI Tools for Students in 2023 - Skillslash]]></title>
+            <link>undefined/category/career</link>
+            <guid>undefined/category/career</guid>
+            <pubDate>Tue, 28 Nov 2023 18:30:00 GMT</pubDate>
+            <description><![CDATA[In the ever-evolving landscape of education, the symbiotic integration of cutting-edge technology and pedagogy has become indispensable, heralding a transformative era where students are empowered by the unprecedented capabilities of Artificial Intelligence (AI). ]]></description>
+        </item>
         <item>
             <title><![CDATA[Mastering the Art of Articulating Job Changes in the World of IT, Data Science, and Machine Learning - Skillslash]]></title>
             <link>undefined/category/career</link>

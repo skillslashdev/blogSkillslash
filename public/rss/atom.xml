@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id/>
     <title>skillslash blog</title>
-    <updated>2023-11-29T10:55:12.973Z</updated>
+    <updated>2023-11-30T07:26:47.346Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Skillslash</name>
@@ -13,6 +13,7 @@
     <logo>undefined/logo.svg</logo>
     <icon>undefined/favicon.png</icon>
     <rights>All rights reserved 2023, Skillslash</rights>
+    <category term="Career"/>
     <category term="Career"/>
     <category term="Data Science"/>
     <category term="Data Science"/>
@@ -66,6 +67,13 @@
     <category term="Cyber security"/>
     <category term="Block Chain"/>
     <category term="Career"/>
+    <entry>
+        <title type="html"><![CDATA[10 Educational AI Tools for Students in 2023 - Skillslash]]></title>
+        <id>undefined/blog/10-Educational-AI-Tools-for-Students-in-2023</id>
+        <link href="undefined/blog/10-Educational-AI-Tools-for-Students-in-2023"/>
+        <updated>2023-11-28T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In the ever-evolving landscape of education, the symbiotic integration of cutting-edge technology and pedagogy has become indispensable, heralding a transformative era where students are empowered by the unprecedented capabilities of Artificial Intelligence (AI). ]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mastering the Art of Articulating Job Changes in the World of IT, Data Science, and Machine Learning - Skillslash]]></title>
         <id>undefined/blog/How-to-Explain-Reason-for-Job-Change</id>
