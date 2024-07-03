@@ -12,6 +12,7 @@
   "dependencies": {
     "@aws-sdk/client-s3": "^3.387.0",
     "aws-sdk": "^2.1432.0",
+    "date-fns": "^3.6.0",
     "dotenv": "^16.3.1",
     "eslint": "8.45.0",
     "eslint-config-next": "13.4.10",
@@ -21,7 +22,7 @@
     "marked": "^4.0.17",
     "mime-types": "^2.1.35",
     "moment": "^2.29.4",
-    "next": "13.4.10",
+    "next": "^14.2.4",
     "react": "18.2.0",
     "react-datepicker": "^4.8.0",
     "react-dom": "18.2.0",
@@ -29,6 +30,6 @@
     "react-phone-number-input": "^3.2.7",
     "react-share": "^4.4.1",
     "sass": "^1.54.4",
-    "sharp": "^0.30.7"
+    "sharp": "^0.33.4"
   }
 }
